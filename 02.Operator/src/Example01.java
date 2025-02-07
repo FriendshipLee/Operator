@@ -28,6 +28,7 @@ public class Example01 {
 		System.out.println(1 != 1);
 		
 		System.out.println(a);
+		System.out.println(a);
 		
 	}
 
